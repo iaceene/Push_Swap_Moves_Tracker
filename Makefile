@@ -1,18 +1,18 @@
-SRC = ./src/additional_func_bonus.c \
-			./src/ft_atol_bonus.c \
-			./src/instructions_utiles_bonus.c \
-			./src/checker_bonus.c \
-			./src/ft_splite_bonus.c \
-			./src/get_next_line_utils_bonus.c \
-			./src/main_bonus.c \
-			./src/stack_a_bonus.c \
-			./src/clear_list_bonus.c \
-			./src/get_next_line_bonus.c \
-			./src/instructions_bonus.c \
-			./src/main_utiles_bonus.c \
-			./src/stack_a_utiles_bonus.c
+SRC = ./src/additional_func.c \
+			./src/ft_atol.c \
+			./src/instructions_utiles.c \
+			./src/checker.c \
+			./src/ft_splite.c \
+			./src/get_next_line_utils.c \
+			./src/main.c \
+			./src/stack_a.c \
+			./src/clear_list.c \
+			./src/get_next_line.c \
+			./src/instructions.c \
+			./src/main_utiles.c \
+			./src/stack_a_utiles.c
 
-INCLUD = ./src/push_swap_bonus.h ./src/get_next_line_bonus.h
+INCLUD = ./src/push_swap.h ./src/get_next_line.h
 NAME = Moves_Tracker
 OBJ = $(SRC:.c=.o)
 CFLAGS = -Wall -Wextra -Werror

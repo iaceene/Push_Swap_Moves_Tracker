@@ -1,17 +1,17 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
+/*   get_next_line_utils.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yaajagro <yaajagro@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/12 01:57:06 by yaajagro          #+#    #+#             */
-/*   Updated: 2024/12/17 11:34:38 by yaajagro         ###   ########.fr       */
+/*   Updated: 2024/12/18 15:46:25 by yaajagro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line_bonus.h"
-#include "push_swap_bonus.h"
+#include "get_next_line.h"
+#include "push_swap.h"
 
 char	*ft_join(char *s1, char *s2)
 {

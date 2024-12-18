@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   stack_a_utiles_bonus.c                             :+:      :+:    :+:   */
+/*   stack_a_utiles.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yaajagro <yaajagro@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/15 02:54:31 by yaajagro          #+#    #+#             */
-/*   Updated: 2024/12/17 18:56:21 by yaajagro         ###   ########.fr       */
+/*   Updated: 2024/12/18 15:47:14 by yaajagro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap_bonus.h"
+#include "push_swap.h"
 
 t_list	*ft_lstlast(t_list *head)
 {

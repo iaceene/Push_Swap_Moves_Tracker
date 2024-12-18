@@ -1,17 +1,17 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   clear_list_bonus.c                                 :+:      :+:    :+:   */
+/*   clear_list.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yaajagro <yaajagro@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/15 05:39:43 by yaajagro          #+#    #+#             */
-/*   Updated: 2024/12/17 13:22:29 by yaajagro         ###   ########.fr       */
+/*   Updated: 2024/12/18 15:46:11 by yaajagro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line_bonus.h"
-#include "push_swap_bonus.h"
+#include "get_next_line.h"
+#include "push_swap.h"
 
 void	ft_lstclear(t_list **lst)
 {

@@ -1,17 +1,17 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   checker_bonus.c                                    :+:      :+:    :+:   */
+/*   checker.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yaajagro <yaajagro@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/17 09:23:57 by yaajagro          #+#    #+#             */
-/*   Updated: 2024/12/18 13:29:30 by yaajagro         ###   ########.fr       */
+/*   Updated: 2024/12/18 15:46:04 by yaajagro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line_bonus.h"
-#include "push_swap_bonus.h"
+#include "get_next_line.h"
+#include "push_swap.h"
 
 int	ft_strcmp(char *str1, char *str2)
 {

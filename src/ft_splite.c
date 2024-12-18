@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_splite_bonus.c                                  :+:      :+:    :+:   */
+/*   ft_splite.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yaajagro <yaajagro@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/15 03:03:51 by yaajagro          #+#    #+#             */
-/*   Updated: 2024/12/17 08:54:34 by yaajagro         ###   ########.fr       */
+/*   Updated: 2024/12/18 15:46:18 by yaajagro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap_bonus.h"
+#include "push_swap.h"
 
 int	ft_isspliter(char c, char spliter)
 {
